@@ -2,7 +2,6 @@
 # Dynamic Lists and Settings on Flutter
 
 You can select area and then you can see the countries in that area.
-
 <br /> After selections you can save your settings with Save button.
 <br /> Also you can reset all settings.
 
